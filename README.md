@@ -1,4 +1,4 @@
-# rblx-spa
+# NUXT + Paper Kit bootstrap template
 
 ## Build Setup
 
